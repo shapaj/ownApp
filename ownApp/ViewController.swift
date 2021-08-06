@@ -11,6 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        
+        let f = 5
+        print(f)
         // Do any additional setup after loading the view.
     }
 
